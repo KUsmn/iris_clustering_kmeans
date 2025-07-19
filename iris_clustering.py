@@ -4,8 +4,8 @@ from sklearn.cluster import KMeans
 from sklearn.preprocessing import scale
 
 # loading data from CSV
-iris = pd.read_csv(r'D:/Usman/Data Science/The Sparks Foundation/'
-                   r'Task 2/Iris.csv')
+iris = pd.read_csv(r'D:/Usman/Data Science/Iris.csv')
+
 dimensions = iris[['SepalLengthCm', 'SepalWidthCm', 'PetalLengthCm',
                    'PetalWidthCm']]
 
