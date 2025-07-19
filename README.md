@@ -89,21 +89,6 @@ Each sample has four features:
 
 ---
 
-## 🧑‍💻 Author
-
-Built by [Your Name](https://github.com/yourusername)
-
-This project demonstrates unsupervised learning applied to a classic dataset,
-focusing on clustering logic, interpretability, and visual insights.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## 🔖 Tags
 
 `#KMeans` `#Clustering` `#IrisDataset` `#UnsupervisedLearning`  
